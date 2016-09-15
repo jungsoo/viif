@@ -1,0 +1,18 @@
+{
+  "name": "viif",
+  "version": "0.1.0",
+  "description": "Virtual Infrastructure Intake Form",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oss/viif.git"
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Open System Solutions",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
